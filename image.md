@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/Y4f9WcQW/20250203-091910.jpg" alt="20250203-091910" border="0" />
+<img src="https://i.ibb.co/Y4f9WcQW/20250203-091910.jpg" alt="20250203-091910" border="100" />
